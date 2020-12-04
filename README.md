@@ -17,7 +17,7 @@
 * Bachelor of Public Health Degree 
 
 ##### Kanchanapisek Witthayalai Uthaitani School
-*Sciences-Mathematic 
+* Sciences-Mathematic 
 
 ## **Personal Skill**
 * Research Methods
