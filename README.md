@@ -1,4 +1,4 @@
-# MyResume
+
 # **KITTITHAT SRISUPUN**
 #### kittithat is energetic person who has high passion in work. Working and communicating with people are interesting for me.I do love to learning and love to improve myself to be the best versions
 
@@ -17,7 +17,7 @@
 * Bachelor of Public Health Degree 
 
 ##### Kanchanapisek Witthayalai Uthaitani School
-*Sciences-Mathemati 
+*Sciences-Mathematic 
 
 ## **Personal Skill**
 * Research Methods
