@@ -1,6 +1,6 @@
 
 # **KITTITHAT SRISUPUN**
-![IMG_4445 mu b.jpg](https://github.com/kittithat-1997/MyResume/tree/main/image)
+![IMG_4445 mu b.jpg](https://github.com/kittithat-1997/MyResume/blob/main/image/IMG_4445%20mu%20b.jpg)
 #### kittithat is energetic person who has high passion in work. Working and communicating with people are interesting for me.I do love to learning and love to improve myself to be the best versions
 
 ##### **_My Motto : i can do anything if i set my mind to do it_**
