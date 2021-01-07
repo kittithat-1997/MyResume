@@ -22,12 +22,11 @@
 
 ## **Personal Skill**
 * Research Methods
-* Statistic analytics programs (SPSS)
+* Statistic analytics programs 
+* SPSS (Analysis)
+* R Studio (Calculate,ฺData type,create funtions)
 * Epidata Program
 * Photoshop
-* Ability to work under pressure
-* Communication
-* Team co-worker
 
 ## **Hobbies**
 * Photography
